@@ -1,0 +1,16 @@
+name: Python Check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m py_compile caesar_cipher_pro.py
+      - run: python -c "from caesar_cipher_pro import encrypt, decrypt; assert encrypt('hello', 2) == 'jgnnq'; assert decrypt('jgnnq', 2) == 'hello'; print('Checks passed')"
