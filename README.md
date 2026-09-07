@@ -1,4 +1,4 @@
-# Caesar Cipher — Professional Edition
+# Caesar Cipher
 
 A Python command-line Caesar cipher toolkit for encryption, decryption, cryptanalysis, and learning.
 
@@ -91,3 +91,17 @@ git push -u origin main
 ## License
 
 MIT License
+
+## 👩‍💻 Author
+
+**Phalguni**
+
+GitHub: [@Phalguni-06](https://github.com/Phalguni-06)
+
+Repository: [Password-Strength-Checker-program](https://github.com/Phalguni-06/Caesar-Cipher)
+
+---
+
+## ⭐ Support
+
+If you find this project useful for learning Python or cybersecurity, consider giving the repository a ⭐ on GitHub.
