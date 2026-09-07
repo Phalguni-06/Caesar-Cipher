@@ -98,7 +98,7 @@ MIT License
 
 GitHub: [@Phalguni-06](https://github.com/Phalguni-06)
 
-Repository: [Password-Strength-Checker-program](https://github.com/Phalguni-06/Caesar-Cipher)
+Repository: [Caesar-Cipher](https://github.com/Phalguni-06/Caesar-Cipher)
 
 ---
 
